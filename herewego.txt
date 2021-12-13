@@ -1,1 +1,0 @@
-How to install node.js via source code on linux - https://upstack.co/knowledge/how-to-install-node-js-on-linux
